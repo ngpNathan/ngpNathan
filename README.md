@@ -1,6 +1,6 @@
 ### Oi, sou o Nathan Gabriel Piran 👋 <br>
 🔭 Trabalhando atualmente com Desenvolvimento WEB<br>
-🌱 Estudando JavaScript e PHP<br>
+🌱 Estudando VueJS e NodeJS<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,6 +9,8 @@
   <img align="center" alt="Nathan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Nathan-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Nathan-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
+  <img align="center" alt="Nathan-VUE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
+  <img align="center" alt="Nathan-VUE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
 </div>
 
   ##
